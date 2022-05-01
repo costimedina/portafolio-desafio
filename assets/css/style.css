@@ -1,0 +1,71 @@
+body{
+scroll-behavior: smooth;
+max-width: 100%;
+border: 6px solid;
+border-image-source: linear-gradient(90deg,#f7c9c9,#fa709a 70%);
+border-image-slice: 1;
+}
+
+.nav-link{
+font-family: 'Merriweather', serif;
+font-weight: 400;
+font-size: 1rem;
+}
+
+.bg-nav{
+background-color: #93a9d1;
+}
+
+.rounded-circle{
+max-width: 100%;
+padding: 4rem;
+}
+
+.info-bio{
+text-align:left;
+padding-left: 6rem;
+}
+    
+.fa-2x{
+color: #fa709a;
+margin-top: 1.25rem;
+}
+
+.icono{
+width: 48px;
+height: 48px ;
+}
+
+.personal{
+font-family: 'Merriweather', serif; 
+font-size: large; 
+}
+    
+.trabajos{
+font-family: 'Playfair Display', serif;  
+}
+
+.bg-custom{
+background-color: #cc8f94;
+}
+
+.bg-custom-secundario{
+background-color: #ffe4ec
+}
+
+.btn-primary{
+background-color: #fa709a !important;
+}
+
+.tarjetas{
+justify-content:center;
+font-family: 'Playfair Display', serif;  
+}
+
+footer {
+margin-top:5px;
+margin-bottom:5px;
+text-align:center;
+font-family: 'Merriweather', serif; 
+font-size: 0.75rem;
+}
